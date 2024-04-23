@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style type="text/css">
+
+
+ body {
+	margin: 0;
+	padding; 0;
+	background: linear-gradient( 45deg, lightblue,white,whitesmoke);
+	dispaly: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+
+}
+.style1 {
+	font-size: 20px;
+	margin-left: 20px;
+	font-weight: bold;
+}
+.style2 {
+	font-size: 15px;
+	margin-left: 20px;
+	font-size: 15px;
+}
+.style3 {
+ margin-left: 20px;
+}
+.style4 {
+ margin-left: 30px;
+}
+
+</style>
+
+ <img height="400px" width="100%" src="C:\Users\Admin\Desktop\HealTB\tblungs.png">
+
+<h1> <head><b><center> TUBERCULOSIS</center></b></h1>
+
+<p><i><center> It is caused by a bacterium called Mycobacterium tuberculosis. The bacteria usually attack the lungs, 
+but TB bacteria can attack any part of the body such as the kidney, spine, and brain. Not everyone infected with TB bacteria becomes sick. 
+As a result, two TB-related conditions exist: latent TB infection (LTBI) and TB disease. If not treated properly, TB disease can be fatal. </i></p></center>
+<br>
+
+<p><span class="style1">Latent TB Infection</p></span>
+
+<p><span class="style2">TB bacteria can live in the body without making you sick. This is called latent TB infection. 
+In most people who breathe in TB bacteria and become infected, the body is able to fight the bacteria to stop them from growing. 
+People with latent TB infection: </p></span>
+
+
+<p><span class="style3">• Have no symptoms </p></span>
+<p><span class="style3">• Don’t feel sick </p></span>
+<p><span class="style3">• Can’t spread TB bacteria to others </p></span>
+<p><span class="style3">• Usually have a positive TB skin test reaction or positive TB blood test </p></span>
+<p><span class="style3">• May develop TB disease if they do not receive treatment for latent TB infection </p></span>
+
+
+
+
+<p><b><span class="style1">TB Disease </b><p></span>
+
+<p><span class="style2"> TB bacteria become active if the immune system can’t stop them from growing. 
+When TB bacteria are active (multiplying in your body), this is called TB disease. People with TB disease are sick. 
+They may also be able to spread the bacteria to people they spend time with every day. </span></p>
+
+<p><span class="style2">Many people who have latent TB infection never develop TB disease. 
+Some people develop TB disease soon after becoming infected (within weeks) before their immune system can fight the TB bacteria. 
+Other people may get sick years later when their immune system becomes weak for another reason.</p></span> 
+
+<p><span class="style2"> For people whose immune systems are weak, especially those with HIV infection, 
+the risk of developing TB disease is much higher than for people with normal immune systems.</p></span>
+
+
+<p><span class="style3"> • Has symptoms </p></span>
+<p><span class="style3"> • Usually feels sick </p></span>
+<p><span class="style3">• May spread TB bacteria to others <p></span>
+<p><span class="style3">• Usually has a skin test or blood test result indicating TB infection </p></span>
+<p><span class="style3"> • May have an abnormal chest x-ray, or positive sputum smear or culture </p></span>
+<p><span class="style3">• Needs treatment to treat TB disease <p></span>
+
+<p><b><center><span class="style1">Signs & Symptoms </center></b></p><span>
+
+<p><span class="style2">  TB disease in the lungs may cause symptoms such as: </p></span>
+<p><span class="style3">•a bad cough that lasts 3 weeks or longer </p></span>
+<p><span class="style3">•pain in the chest </p></span>
+<p><span class="style3">•coughing up blood or sputum <p></span>
+<p><span class="style3">•weakness or fatigue </p></span>
+<p><span class="style3">•weight loss </p></span>
+<p><span class="style3">•no appetite </p></span>
+<p><span class="style3">•chills </p></span>
+<p><span class="style3">•fever </p></span>
+<p><span class="style3">•sweating at night </p></span>
+
+<br>
+<p><b><center><span class="style1"> Testing & Diagnosis </center></b><p><span>
+<p><b><span class="style1">Testing </b><p></span>
+<p><span class="style2">There are two kinds of tests used to detect TB bacteria in the body: the TB skin test (TST) and TB blood tests. 
+A positive TB skin test or TB blood test only tells that a person has been infected with TB bacteria. 
+It does not tell whether the person has latent TB infection (LTBI) or has progressed to TB disease. 
+Other tests, such as a chest x-ray and a sample of sputum, are needed to see whether the person has TB disease. <p></span>
+
+<p><b><span class="style1">Diagnosis</b><p></span>
+
+<p><span class="style2"><b>If a person is infected with TB bacteria, other tests are needed to see if the person has latent TB infection or TB disease.
+</b></p></span>
+<p><span class="style4">Listening to you breathe with a stethoscope.</span>
+<p><span class="style4">Checking for swollen lymph nodes.</span>
+<p><span class="style4">Asking you questions about your symptoms.</span>
+<p><span class="style4">Your health care provider will order tests if:</span>
+<p><span class="style4">Tuberculosis is suspected.</span>
+<p><span class="style4">You were likely exposed to a person with active tuberculosis (TB) disease.</span>
+<p><span class="style4">Your provider will determine whether a skin test or blood test is the best option.</span>
+<p><span class="style2">•Skin test</span>
+<p><span class="style2">A tiny amount of a substance called tuberculin is injected just below the skin on the inside of one forearm. 
+Within 48 to 72 hours, a health care worker will check your arm for swelling at the injection site. 
+The size of the raised skin is used to determine a positive or negative test. This test is seeing if your immune system reacts, or has made an antibody, 
+to tuberculosis. A positive test indicates you likely have either a latent TB infection or active TB disease. 
+People who had a TB vaccination might get a positive test even if they have no infection. A negative test means that your body didn’t react to the test. 
+It doesn’t necessarily mean you don’t have an infection.</span>
+<p><span class="style2">•Blood tests</span>
+<p><span class="style2">A sample of blood is sent to a lab. One lab test finds out whether certain immune system cells can “recognize” tuberculosis. 
+A positive test shows that you have either a latent TB infection or active TB disease. Other tests of the blood sample can help determine if you have active disease. 
+A negative result means you likely do not have a TB infection.</span>
+<p><span class="style2">•X-ray</span>
+<p><span class="style2">A chest X-ray can show irregular patches in the lungs that are typical of active TB disease.</span>
+<p><span class="style2">•Sputum tests</span>
+<p><span class="style2">Your health care provider may take a sample of the mucus that comes up when you cough, also called sputum. 
+If you have active TB disease in your lungs or voice box, lab tests can detect the bacteria. 
+A relatively quick laboratory test can tell if the sputum likely has the TB bacteria. But it may be showing bacteria with similar features.
+<p><span class="style2">• Other lab tests that may be ordered include:</span>
+<p><span class="style4">-Breath test.</span>
+<p><span class="style4">-Procedure to remove sputum from your lungs with a special tube.</span>
+<p><span class="style4">-Urine test.</span>
+<p><span class="style4">-Test of the fluid around the spine and brain, called cerebrospinal fluid.</span>
+
+
+<p><b><span class="style1">How it spreads?</b><p></span>
+<p><span class="style2">TB is spread from person to person through the air. When people with lung TB cough, sneeze or spit, they propel the TB germs into the air. 
+A person needs to inhale only a few of these germs to become infected.
+People infected with TB bacteria have a lifetime risk of falling ill with TB of 10%. However persons with compromised immune systems, such as people living with HIV, 
+malnutrition or diabetes, or people who use tobacco, have a much higher risk of falling ill.</span></p>
+
+<p><b><span class="style1">How long is TB contagious?</b><p></span>
+<p><span class="style2">Most people may remain at home, but all should be kept from any new contacts for at least 2 weeks after treatment begins. 
+The elderly and those who are acutely ill or have multidrug resistant TB should be hospitalized for the first few weeks of treatment.</span></p>
+
+
+<p><span class="style1"> Prevention </p></span>
+<p><span class="style3">• Having a healthy immune system is the best form of defence against TB: 60% of adults with a healthy </span>
+immune system can completely kill TB bacteria.</span>
+<p><span class="style3">• There is a vaccine for tuberculosis (TB) called the BCG vaccine.</span>
+<p><span class="style3">• As TB is an airborne infection, TB bacteria are released into the air when someone with infectious TB coughs or sneezes. </span>
+The risk of infection can be reduced by using a few simple precautions:</span>
+
+<p><span class="style4">Good ventilation: as TB can remain suspended in the air for several hours with no ventilation</span>
+<p><span class="style4">Natural light: UV light kills off TB bacteria</span>
+<p><span class="style4">Good hygiene: covering the mouth and nose when coughing or sneezing reduces the spread of TB bacteria.</span>
+
+<p><span class="style3">In healthcare settings, the spread of TB is reduced through the use of protective masks, ventilation systems, 
+keeping potentially infectious patients separate from other patients, and the regular screening of healthcare workers for TB.</span>
+
+<p><span class="style1"> Treatment </p></span>
+<p><span class="style3">•Rifampin</span>
+<p><span class="style3">•Isoniazid</span>
+<p><span class="style3">•Pyrazinamide</span>
+<p><span class="style3">•Ethambutol</span>
+<p><span class="style3">•Streptomycin</span>
+
+<p><span class="style3">The RIPES are first-line antitubercular medications, which are FDA-approved and indicated for the treatment 
+of Mycobacterium tuberculosis infections.<br> RIPE regimens for treating TB disease have an intensive phase of 2 months, 
+followed by a continuation phase of either 4 or 7 months (total of 6 to 9 months for treatment). 
+This is the preferred regimen for patients with newly diagnosed pulmonary TB..</span>
+
+<p><span class="style1"> References </p></span>
+<p><span class="style3">Alert, T. (2014, April 15). Prevention - TB Alert. TB Alert. https://www.tbalert.org/about-tb/what-is-tb/prevention/ </p></span>
+<p><span class="style3">Tuberculosis. (2023, November 7). https://www.who.int/news-room/questions-and-answers/item/tuberculosis#  </p></span>
+<p><span class="style3">Tuberculosis (TB) in the United States. (2023b, October 30). Centers for Disease Control and Prevention. https://www.cdc.gov/tb/default.htm </p></span>
+
+
+
+</body>
+</html>
+
+
+
+
